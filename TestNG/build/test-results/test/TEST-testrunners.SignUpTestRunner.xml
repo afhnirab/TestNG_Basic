@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="testrunners.SignUpTestRunner" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-03-09T00:02:04.035Z" hostname="NIRAB" time="1.338">
-  <properties/>
-  <testcase name="doRegistration" classname="testrunners.SignUpTestRunner" time="1.33"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

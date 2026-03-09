@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="testrunners.LoginTestRunner" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-03-09T00:02:06.723Z" hostname="NIRAB" time="0.454">
-  <properties/>
-  <testcase name="doLogin" classname="testrunners.LoginTestRunner" time="0.454"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
